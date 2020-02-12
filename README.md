@@ -6,7 +6,7 @@ wp-includes\load.php
 
 #For this kind of error during installation of WP
 
-/*Please find the folloring code and update:
+Please find the folloring code and update:
 1. wp-includes\load.php   
 Find: if ( version_compare( $required_php_version, $php_version, '>' ) ) {
 
